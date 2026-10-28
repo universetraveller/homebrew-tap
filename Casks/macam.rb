@@ -1,6 +1,6 @@
 cask "macam" do
-  version "0.3.0"
-  sha256 "7f21003f02780e0d705f402a7b99dec79c71b659c68adb43951d188bc5dc745d"
+  version "0.3.3"
+  sha256 "79f928519e4736cef3080c20f52bb404fa23e1d6e7954e66ebc448ab64e54162"
 
   url "https://github.com/universetraveller/macam/releases/download/v#{version}/Macam-#{version}-arm64.zip"
   name "Macam"
